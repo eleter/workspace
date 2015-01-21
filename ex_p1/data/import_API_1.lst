@@ -1,0 +1,4 @@
+.idata:00406008 ; LSTATUS __stdcall RegDeleteValueA(HKEY hKey, LPCSTR lpValueName)
+.idata:00406000	; Alignment	: default
+.idata:00406000	;
+.idata:00406000	; Imports from ADVAPI32.dll
